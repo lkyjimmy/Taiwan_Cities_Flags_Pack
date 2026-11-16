@@ -1,0 +1,16 @@
+Taiwan Cities Window Flags Pack v 202611160904
+
+您需要擁有並安裝官方的「Euro Truck Simulator 2 - Window Flags」DLC！才能使用，
+
+製作 通番救國政治部
+
+
+該模組為遊戲中所有標準 SCS 卡車及巴士添加台灣 22 縣市旗幟
+
+以下卡車不支持：
+
+DAF NGD
+
+MAN TGX
+
+VOLVO FH5
