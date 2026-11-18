@@ -2,7 +2,7 @@
 
 ## 1. 模組概覽與源碼目錄結構
 
-本模組（**Taiwan Cities Window Flags Pack**，製作：**通番救國政治部 / PDSNCF**）為《歐洲卡車模擬 2》（Euro Truck Simulator 2）的台灣 22 縣市車窗旗幟配件包，同時支援官方卡車與官方客車（Coaches DLC）。源碼根目錄為 `Taiwan_Cities_Flags_Pack/`：
+本模組（**Taiwan Cities Window Flags Pack**，製作：**通番救國政治部 / PDSNCF / Political Department of Saving the Nation by Colluding with Foreigners**）為《歐洲卡車模擬 2》（Euro Truck Simulator 2）的台灣 22 縣市車窗旗幟配件包，同時支援官方卡車與官方客車（Coaches DLC）。源碼根目錄為 `Taiwan_Cities_Flags_Pack/`：
 
 ```text
 Taiwan_Cities_Flags_Pack/
